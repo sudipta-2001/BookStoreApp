@@ -1,0 +1,64 @@
+[
+    {
+     "id":1,
+     "name":"Story Book",
+     "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+     "price":0.00,
+     "category":"Free",
+     "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+    },
+
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":199,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       },
+
+       {
+        "id":3,
+        "name":"Sports Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":99,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       },
+
+       {
+        "id":4,
+        "name":"Music Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":149,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       },
+
+       {
+        "id":5,
+        "name":"Dance Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":299,
+        "category":"Dance",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       },
+
+       {
+        "id":6,
+        "name":"Computer Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":499,
+        "category":"Computer",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       },
+
+       {
+        "id":7,
+        "name":"Science Book",
+        "title":" Ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":399,
+        "category":"Science",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1743048973~exp=1743052573~hmac=19e795970eb8e5a57e69bab6df33f4d316ece15b0b0df46acbb26773be23029b&w=900" 
+       }
+]
